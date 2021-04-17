@@ -1,0 +1,18 @@
+.demo  {
+    text-align: center;
+    font: size 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+.wel {
+    text-align: center;
+    font: size 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
